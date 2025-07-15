@@ -1,7 +1,0 @@
-scientificName,eventDate,decimalLatitude,decimalLongitude,county,stateProvince,individualCount,basisOfRecord,occurrenceStatus,scientificName_lower,month,species_code,predicted_conflict
-"Civettictis civetta (Schreber, 1776)",2009-10-17,-3.844,39.6692,Kilifi,Kenyan Coast,1,HUMAN_OBSERVATION,PRESENT,"civettictis civetta (schreber, 1776)",10,0,1
-"Syncerus caffer (Sparrman, 1779)",2016-09-29,-4.40787,39.47751,Kwale,Kenyan Coast,1,HUMAN_OBSERVATION,PRESENT,"syncerus caffer (sparrman, 1779)",9,5,1
-"Papio cynocephalus (Linnaeus, 1766)",2016-09-19,-4.235328,39.415407,Kwale,Kenyan Coast,1,HUMAN_OBSERVATION,PRESENT,"papio cynocephalus (linnaeus, 1766)",9,3,1
-"Panthera pardus (Linnaeus, 1758)",2016-09-19,-4.235328,39.415407,Kwale,Kenyan Coast,1,HUMAN_OBSERVATION,PRESENT,"panthera pardus (linnaeus, 1758)",9,2,1
-"Syncerus caffer (Sparrman, 1779)",2016-09-19,-4.235328,39.415407,Kwale,Kenyan Coast,1,HUMAN_OBSERVATION,PRESENT,"syncerus caffer (sparrman, 1779)",9,5,1
-"Loxodonta africana (Blumenbach, 1797)",2016-09-19,-4.235328,39.415407,Kwale,Kenyan Coast,1,HUMAN_OBSERVATION,PRESENT,"loxodonta africana (blumenbach, 1797)",9,1,1
