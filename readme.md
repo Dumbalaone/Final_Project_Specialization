@@ -7,7 +7,7 @@ An interactive web app to visualize and explore predicted Human-Wildlife Conflic
 ## 🌍 Live App
 
 👉 [Click here to view the live app](https://finalprojectspecialization-ckztyr6d9bkkmjlwg8usy7.streamlit.app/)  
-*(Paste your actual Streamlit Cloud link above)*
+
 
 ---
 
